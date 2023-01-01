@@ -1,0 +1,11 @@
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\bin\Debug\Uçuş Rezervasyon Sistemi.exe.config
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\bin\Debug\Uçuş Rezervasyon Sistemi.exe
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\bin\Debug\Uçuş Rezervasyon Sistemi.pdb
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\obj\Debug\Uçuş Rezervasyon Sistemi.csproj.AssemblyReference.cache
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\obj\Debug\Uçuş Rezervasyon Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\obj\Debug\Uçuş_Rezervasyon_Sistemi.Form1.resources
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\obj\Debug\Uçuş_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\obj\Debug\Uçuş Rezervasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\obj\Debug\Uçuş Rezervasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\obj\Debug\Uçuş Rezervasyon Sistemi.exe
+C:\Users\t.dinc\Desktop\Projects\Uçuş Rezervasyon Sistemi\obj\Debug\Uçuş Rezervasyon Sistemi.pdb
